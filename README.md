@@ -16,5 +16,10 @@ To ensure the system scales without severe performance bottlenecks, it avoids st
 ## How to Run
 1. Ensure you have a C++ compiler installed (e.g., GCC).
 2. Compile the source file:
-```bash
+   ```bash
    g++ main.cpp -o leaderboard
+   ```
+3. Run the executable:
+   ```bash
+   ./leaderboard
+   ``` 
